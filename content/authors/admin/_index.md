@@ -53,7 +53,7 @@ social:
     icon_pack: fab
     link: https://orcid.org/0000-0003-0923-8691
   - icon: scopus
-    icon_pack: fab
+    icon_pack: academicons
     link: https://www.scopus.com/authid/detail.uri?authorId=57216852121
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
