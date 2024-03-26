@@ -3,7 +3,6 @@
 title: Marcos de Souza Oliveira
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Marcos
@@ -25,12 +24,13 @@ organizations:
     url: https://inatel.br/icc/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Unsupervised machine learning, Clustering and Exploratory data analysis (EDA).
+bio: My research interests include Exploratory Data Analysis (EDA), Unsupervised Deep Learning, Clustering, Optimization, and Feature Selection.
 
 # Interests to show in About widget
 interests:
   - Exploratory Data Analysis
   - Deep Clustering
+  - Deep Graph Clustering 
   - Unsupervised Feature Selection
 
 # Education to show in About widget
@@ -42,6 +42,9 @@ education:
     - course: MSc in Artificial Intelligence
       institution: Informatics Center, Federal Unversity of Pernambuco - Brazil
       year: 2018
+      - course: Postgraduate in Software Engineering 
+      institution: Unversity of Pernambuco - Brazil
+      year: 2016
     - course: BSc in Computer Science
       institution: Faculdade dos Guararapes - Brazil
       year: 2014
@@ -69,5 +72,5 @@ social:
 highlight_name: true
 ---
 
-I am an experienced professional, with 12+ years working in the development of software-based solutions focused on system and data analysis. I have worked in different positions helping organizations to deliver valuable software functionality. The positions can be summarized as AI/ML specialist, data scientist (DS), frontend, backend, fullstack, mobile and software engineering. My main interest is in unsupervised machine learning & exploratory data analysis, specifically clustering and dimensionality reduction methods.  
+I am an experienced professional, with 12+ years working in IT industry. I have worked in different positions summarized as AI/ML specialist, data scientist (DS), frontend, backend, fullstack, mobile and software engineering. My main interest is in evolutionary algorithms, deep unsupervised machine learning & exploratory data analysis, specifically deep clustering, deep graph clustering and dimensionality reduction methods.  
 {style="text-align: justify;"}
