@@ -55,6 +55,9 @@ social:
   - icon: scopus
     icon_pack: ai
     link: https://www.scopus.com/authid/detail.uri?authorId=57216852121
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Marcos-De-Souza-Oliveira
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR
