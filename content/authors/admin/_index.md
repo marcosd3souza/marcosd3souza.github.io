@@ -42,7 +42,7 @@ education:
     - course: MSc in Artificial Intelligence
       institution: Informatics Center, Federal Unversity of Pernambuco - Brazil
       year: 2018
-      - course: Postgraduate in Software Engineering 
+    - course: Specialization in Software Engineering 
       institution: Unversity of Pernambuco - Brazil
       year: 2016
     - course: BSc in Computer Science
@@ -52,6 +52,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-0923-8691
+  - icon: scopus
+    icon_pack: fab
+    link: https://www.scopus.com/authid/detail.uri?authorId=57216852121
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR
@@ -72,5 +75,5 @@ social:
 highlight_name: true
 ---
 
-I am an experienced professional, with 12+ years working in IT industry. I have worked in different positions summarized as AI/ML specialist, data scientist (DS), frontend, backend, fullstack, mobile and software engineering. My main interest is in evolutionary algorithms, deep unsupervised machine learning & exploratory data analysis, specifically deep clustering, deep graph clustering and dimensionality reduction methods.  
+I am an experienced professional, with 12+ years working in IT industry. I have worked in different positions summarized as AI/ML specialist, data scientist (DS), frontend, backend, fullstack, mobile and software engineering. My main interest is to develop meaningful, cost-effective and explainable (human-centric) AI models through unsupervised deep learning, exploratory data analysis, and optimization, specifically deep clustering, deep graph clustering, evolutionary algorithms and dimensionality reduction methods.  
 {style="text-align: justify;"}
