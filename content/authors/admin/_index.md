@@ -72,11 +72,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV-1.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an experienced professional, with 12+ years working in IT industry. I have worked in different positions summarized as AI/ML specialist, data scientist (DS), frontend, backend, fullstack, mobile and software engineering. My main interest is to develop meaningful, cost-effective and explainable (human-centric) AI models through unsupervised deep learning, exploratory data analysis, and optimization, specifically deep clustering, deep graph clustering, evolutionary algorithms and dimensionality reduction methods.  
+I am an experienced professional, with over 12+ years working in IT industry. I have worked in different positions summarized as AI/ML specialist, data scientist (DS), frontend, backend, fullstack, mobile and software engineering. My main interest is to develop meaningful, cost-effective and explainable AI models through unsupervised deep learning, exploratory data analysis, and optimization, specifically deep clustering, deep graph clustering, evolutionary algorithms and dimensionality reduction methods.  
 {style="text-align: justify;"}
