@@ -24,6 +24,6 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '2'
-      view: card
+      columns: '1'
+      view: list
 ---
