@@ -25,5 +25,5 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: compact  
+      view: card
 ---
