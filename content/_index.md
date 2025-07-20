@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: Selected Publications
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
@@ -25,5 +25,5 @@ sections:
         exclude_featured: false
     design:
       columns: '1'
-      view: list
+      view: compact
 ---
