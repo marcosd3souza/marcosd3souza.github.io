@@ -1,6 +1,5 @@
 ---
-title: 'FastAiAlloc: A real-time multi-resources allocation framework proposal based
-  on predictive model and multiple optimization strategies'
+title: 'Deep contrastive variational subspace clustering'
 authors:
 - Marcos de S. Oliveira
 - Sergio Ricardo de Melo Queiroz
