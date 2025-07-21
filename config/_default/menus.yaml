@@ -9,10 +9,10 @@ main:
     weight: 10
   - name: News
     url: /#news
-    weight: 13
+    weight: 11
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 12
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
