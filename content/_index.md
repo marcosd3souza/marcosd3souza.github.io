@@ -41,18 +41,13 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: collection
-    id: publications
     content:
       title: Selected Publications
-#      text: |-
-#        {{% callout note %}}
-#        Quickly discover relevant content by [filtering publications](./publication/).
-#       {{% /callout %}}
+      text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      columns: '1'
-      view: compact
+      view: citation
 ---
