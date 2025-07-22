@@ -3,7 +3,7 @@
 title: Marcos de Souza Oliveira
 
 # Name pronunciation (optional)
-name_pronunciation: Marcos
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Marcos
