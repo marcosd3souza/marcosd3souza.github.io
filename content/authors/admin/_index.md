@@ -51,18 +51,16 @@ interests:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Informatics Center, Federal Unversity of Pernambuco - Brazil
-    date_start: 2020-01-01
-    date_end: 2024-12-31
+    institution: Federal Unversity of Pernambuco - Brazil
+    year: 2024
     summary: |
       Thesis Unsupervised Feature Selection and Deep Subspace Clustering for Exploratory High-Dimensional Cluster Analysis
     button:
       text: 'Read Thesis'
       url: '[URL](https://repositorio.ufpe.br/handle/123456789/62451)'
   - area: MSc Artificial Intelligence
-    institution: Informatics Center, Federal Unversity of Pernambuco - Brazil
-    date_start: 2016-01-01
-    date_end: 2018-12-31
+    institution: Federal Unversity of Pernambuco - Brazil
+    year: 2018
     summary: |
       Thesis Metodologia de seleção de features não supervisionada para clustering em conjunto de dados de alta dimensionalidade
     button:
