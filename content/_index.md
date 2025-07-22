@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: resume-biography-3
+    id: bio
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -64,6 +65,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: collection
+    id: publications
     content:
       title: Selected Publications
       text: ""
@@ -72,5 +74,5 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: compact
 ---
