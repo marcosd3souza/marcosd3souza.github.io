@@ -10,8 +10,8 @@ main:
   - name: News
     url: /#news
     weight: 11
-  - name: Papers
-    url: /#papers
+  - name: Publications
+    url: /#publications
     weight: 12
   - name: CV
     url: uploads/CV.pdf
