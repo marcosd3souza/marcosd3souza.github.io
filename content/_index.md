@@ -74,5 +74,5 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: compact
+      view: citation
 ---
