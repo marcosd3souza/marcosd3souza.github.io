@@ -30,23 +30,17 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: orcid
-    icon_pack: fab
+  - icon: academicons/orcid
     link: https://orcid.org/0000-0003-0923-8691
-  - icon: scopus
-    icon_pack: ai
+  - icon: academicons/scopus
     link: https://www.scopus.com/authid/detail.uri?authorId=57216852121
-  - icon: researchgate
-    icon_pack: ai
+  - icon: brands/researchgate
     link: https://www.researchgate.net/profile/Marcos-De-Souza-Oliveira
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: academicons/google-scholar
     link: https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR
-  - icon: github
-    icon_pack: fab
+  - icon: brands/github
     link: https://github.com/marcosd3souza
-  - icon: linkedin
-    icon_pack: fab
+  - icon: brands/linkedin
     link: https://www.linkedin.com/in/marcos-d-souza/
 
 interests:
@@ -92,4 +86,4 @@ languages:
 I am a highly skilled researcher and professional with over 14 years of experience in software development and Artificial
 Intelligence (AI), Machine Learning (ML), and data analytics. I have led and contributed to a wide range of projects, from
 agile development teams to large-scale international collaborations, holding roles such as Tech Lead, AI/ML specialist,
-Data Scientist, and Software Engineer. I am particularly drawn to unsupervised learning and exploratory data analysis. My main interest is to develop meaningful, cost-effective and explainable AI models through unsupervised deep learning, exploratory data analysis, and optimization, specifically deep clustering, deep graph clustering, evolutionary algorithms and dimensionality reduction methods.
+Data Scientist, and Software Engineer. I am particularly drawn to unsupervised learning and exploratory data analysis.
