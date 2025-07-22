@@ -34,7 +34,7 @@ profiles:
     link: https://orcid.org/0000-0003-0923-8691
   - icon: academicons/scopus
     link: https://www.scopus.com/authid/detail.uri?authorId=57216852121
-  - icon: brands/researchgate
+  - icon: academicons/researchgate
     link: https://www.researchgate.net/profile/Marcos-De-Souza-Oliveira
   - icon: academicons/google-scholar
     link: https://scholar.google.com/citations?user=ZgCBICcAAAAJ&hl=pt-BR
