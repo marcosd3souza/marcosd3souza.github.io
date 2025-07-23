@@ -7,12 +7,12 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: News
-    url: /#news
-    weight: 11
+  # - name: News
+  #   url: /#news
+  #   weight: 11
   - name: Publications
     url: /#publications
-    weight: 12
+    weight: 11
   - name: CV
     url: uploads/CV.pdf
     weight: 50
