@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI/ML Specialist
+role: Postdoctoral Researcher in AI/ML
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Inatel Competence Center
-    url: https://inatel.br/icc/
+  - name: Center of Informatics and Systems of University of Coimbra (CISUC)
+    url: https://www.cisuc.uc.pt/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
