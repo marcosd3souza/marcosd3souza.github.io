@@ -13,14 +13,6 @@ I am an **Invited Assistant Professor at the University of Coimbra** and a resea
 
 My work combines theoretical machine learning research with applied AI engineering, with an emphasis on developing methods that are **robust, interpretable, computationally efficient, and applicable to real-world problems**.
 
-## Current Position
-
-I am currently an **Invited Assistant Professor at the University of Coimbra**, where I contribute to teaching and research in Computer Science, including **Descriptive machine learning, exploratory data analysis, Interactive Computer Graphics, web development, evolutionary computation, and AI-HCI topics such as generative AI models for UI/UX system design**.
-
-I am also a **Researcher at CISUC**, where my research involves unsupervised machine learning, topological data analysis, knowledge graphs, clustering, and intelligent decision-support systems.
-
-Previously, I worked as a **Postdoctoral Researcher at the University of Coimbra**, contributing to the E2E Digital Twin project focused on high-end natural cork stopper inspection. This work involved computer vision, self-supervised learning, deep clustering, synthetic data generation, explainability, and human-centered AI.
-
 ## Research Interests
 
 My main research interests include:
@@ -53,10 +45,6 @@ This methodology is designed to move beyond purely numerical clustering evaluati
 
 I have over **15 years of experience** spanning software engineering, artificial intelligence, and data science. My professional trajectory combines academic research, industrial R&D, software engineering, teaching, and technical leadership.
 
-Before joining the University of Coimbra, I worked as a **Senior Researcher and Tech Lead at Inatel**, leading and contributing to R&D projects involving industrial AI, Edge Computing, IoT, Digital Twins, computer vision, and MLOps.
-
-I have also contributed to technology and R&D projects involving organizations such as **Samsung and Dell**, combining machine learning research with production-oriented software engineering and intelligent systems.
-
 ## Education
 
 I hold a **PhD in Computer Science from the Federal University of Pernambuco (UFPE)**, with research focused on unsupervised feature selection and deep subspace clustering for exploratory high-dimensional cluster analysis.
@@ -72,18 +60,6 @@ My teaching experience ranges from **algorithms, programming, data structures, a
 I have also taught Data Science and Unsupervised Machine Learning at CESAR School, including topics such as dimensionality reduction, clustering, and deep learning, using project-based learning approaches.
 
 I am also involved in research supervision and mentoring, supporting students working on topics related to deep clustering, generative AI, graph-based learning, and intelligent systems.
-
-## Selected Research
-
-My research has resulted in publications in areas including:
-
-- **Deep clustering and representation learning**
-- **Unsupervised feature selection**
-- **Resource allocation and intelligent optimization**
-- **Computer vision for industrial inspection**
-- **Digital Twins and human-centered AI**
-
-Selected publications include work published in **Neurocomputing**, **Expert Systems with Applications**, and **Future Generation Computer Systems**.
 
 ## Open Science
 
