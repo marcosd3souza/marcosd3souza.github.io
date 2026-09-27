@@ -64,7 +64,8 @@ Teaching & Mentoring
 ======
 
 * **University of Coimbra**
-  * Invited Assistant Professor
+  * Unsupervised machine learning
+  * Internet Technologies
   * Interactive Computer Graphics
   * Vulkan SDK and high-performance rendering
 
@@ -91,17 +92,17 @@ Selected Publications
 * **Deep Contrastive Variational Subspace Clustering**, *Neurocomputing*, 2025.
   * DOI: 10.1016/j.neucom.2025.130901
 
-* **KNMFS: [publication on unsupervised feature selection]**, *Expert Systems with Applications*, 2022.
-  * DOI: 10.1016/j.eswa.2022.118092
+* **A Study of Computational Vision Methods for Corrosion Detection in Industrial Assets**, SIBGRAPI, 2025.
+  * DOI: 10.5753/sibgrapi.est.2025.38322
 
-* **FastAiAlloc: [publication on intelligent resource allocation]**, *Future Generation Computer Systems*, 2023.
+* **FastAiAlloc: A real-time multi-resources allocation framework proposal based on predictive model and multiple optimization strategies**, *Future Generation Computer Systems*, 2023.
   * DOI: 10.1016/j.future.2023.08.014
 
-* **[Unsupervised Feature Selection Methodology]**, 2020.
-  * DOI: 10.22456/2175-2745.96081
+* **Unsupervised feature selection method based on iterative similarity graph factorization and clustering by modularity**, *Expert Systems with Applications*, 2022.
+  * DOI: 10.1016/j.eswa.2022.118092
 
-* **[Corrosion Detection Using Computer Vision]**, SIBGRAPI, 2025.
-  * DOI: 10.5753/sibgrapi.est.2025.38322
+* **Unsupervised feature selection methodology for clustering in high dimensionality datasets**, UFPE, 2020.
+  * DOI: 10.22456/2175-2745.96081
 
 
 Professional Activities

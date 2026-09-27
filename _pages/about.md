@@ -26,8 +26,6 @@ My main research interests include:
 - **Explainable Artificial Intelligence**
 - **Graph Neural Networks**
 - **Topological Data Analysis**
-- **Generative AI**
-- **Digital Twins**
 - **Human-in-the-Loop AI**
 - **Intelligent Decision-Support Systems**
 
