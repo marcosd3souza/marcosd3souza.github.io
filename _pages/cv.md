@@ -63,6 +63,12 @@ Work experience
 Teaching & Mentoring
 ======
 
+My teaching experience ranges from **algorithms, programming, data structures, and operating systems** to **data science, unsupervised machine learning, and interactive computer graphics**.
+
+I have also taught Data Science and Unsupervised Machine Learning at CESAR School, including topics such as dimensionality reduction, clustering, and deep learning, using project-based learning approaches.
+
+I am also involved in research supervision and mentoring, supporting students working on topics related to deep clustering, generative AI, graph-based learning, and intelligent systems.
+
 * **University of Coimbra**
   * Unsupervised machine learning
   * Internet Technologies
@@ -84,25 +90,6 @@ Teaching & Mentoring
   * Generative AI
   * Intelligent systems
   * Machine learning and computer vision
-
-
-Selected Publications
-======
-
-* **Deep Contrastive Variational Subspace Clustering**, *Neurocomputing*, 2025.
-  * DOI: 10.1016/j.neucom.2025.130901
-
-* **A Study of Computational Vision Methods for Corrosion Detection in Industrial Assets**, SIBGRAPI, 2025.
-  * DOI: 10.5753/sibgrapi.est.2025.38322
-
-* **FastAiAlloc: A real-time multi-resources allocation framework proposal based on predictive model and multiple optimization strategies**, *Future Generation Computer Systems*, 2023.
-  * DOI: 10.1016/j.future.2023.08.014
-
-* **Unsupervised feature selection method based on iterative similarity graph factorization and clustering by modularity**, *Expert Systems with Applications*, 2022.
-  * DOI: 10.1016/j.eswa.2022.118092
-
-* **Unsupervised feature selection methodology for clustering in high dimensionality datasets**, UFPE, 2020.
-  * DOI: 10.22456/2175-2745.96081
 
 
 Professional Activities
