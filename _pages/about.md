@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Marcos de Souza Oliveira (under construction)"
+title: "Marcos de Souza Oliveira"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am an **Invited Assistant Professor at the University of Coimbra** and a researcher working at the intersection of **Artificial Intelligence, Machine Learning, and Representation Learning**. My research focuses primarily on **unsupervised learning, deep clustering, high-dimensional data analysis, computer vision, explainable AI, and intelligent systems**.
 
